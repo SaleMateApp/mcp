@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.SaleMateApp/mcp",
   "title": "SaleMate",
   "description": "Make product videos, UGC ads, scripts, voice-overs and photos with your SaleMate credits.",
