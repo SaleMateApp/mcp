@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "salemate",
+  "version": "1.0.0",
+  "description": "Create images, scripts, voiceovers and videos with 10 standalone video models, plus Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas.",
+  "author": {
+    "name": "SaleMate"
+  },
+  "homepage": "https://salemate.app/mcp",
+  "repository": "https://github.com/SaleMateApp/mcp",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "SaleMate",
+        "shortDescription": "Images, videos and voiceovers",
+        "longDescription": "Create media through your SaleMate account. Discover 10 standalone video models, image and voice tools, Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas. Compare compatible options and their scoped test evidence before choosing. Generation uses SaleMate credits and requires a credit ceiling; some runs also require human approval. Provider availability varies, and historical observations do not establish a general quality ranking.",
+        "developerName": "SaleMate",
+        "category": "Creativity",
+        "capabilities": [
+          "Discover media models",
+          "Create images and videos",
+          "Generate voiceovers",
+          "Track saved media"
+        ],
+        "websiteURL": "https://salemate.app",
+        "supportURL": "https://salemate.app/contact/",
+        "privacyPolicyURL": "https://salemate.app/privacy-policy/",
+        "termsOfServiceURL": "https://salemate.app/terms-of-service/",
+        "defaultPrompt": [
+          "Show video options for a 10-second product ad without generating anything.",
+          "Check the status of my SaleMate jobs.",
+          "Help me prepare a product photo for a video ad."
+        ],
+        "composerIcon": "./assets/salemate-icon.png",
+        "logo": "./assets/salemate-icon.png"
+      }
+    }
+  }
+}

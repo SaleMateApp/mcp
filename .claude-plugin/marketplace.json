@@ -1,0 +1,17 @@
+{
+  "name": "salemate",
+  "owner": {
+    "name": "SaleMate"
+  },
+  "plugins": [
+    {
+      "name": "salemate",
+      "source": "./",
+      "description": "Create images, scripts, voiceovers and videos with 10 standalone video models, plus Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas.",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "SaleMate media generation and reusable workflows."
+  }
+}

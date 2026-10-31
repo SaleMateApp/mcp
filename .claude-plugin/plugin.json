@@ -1,0 +1,23 @@
+{
+  "name": "salemate",
+  "version": "1.0.0",
+  "description": "Create images, scripts, voiceovers and videos with 10 standalone video models, plus Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas.",
+  "author": {
+    "name": "SaleMate"
+  },
+  "homepage": "https://salemate.app/mcp",
+  "repository": "https://github.com/SaleMateApp/mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "ai video",
+    "ugc ads",
+    "product video",
+    "voice-over",
+    "video generation",
+    "salemate"
+  ],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills/",
+  "privacyPolicyUrl": "https://salemate.app/privacy-policy"
+}

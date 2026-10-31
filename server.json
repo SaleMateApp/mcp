@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.SaleMateApp/mcp",
+  "title": "SaleMate",
+  "description": "Make product videos, UGC ads, scripts, voice-overs and photos with your SaleMate credits.",
+  "version": "1.0.0",
+  "websiteUrl": "https://salemate.app/mcp/",
+  "repository": {
+    "url": "https://github.com/SaleMateApp/mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.salemate.app/mcp"
+    }
+  ]
+}

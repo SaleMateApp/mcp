@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "salemate": {
+      "type": "http",
+      "url": "https://mcp.salemate.app/mcp"
+    }
+  }
+}

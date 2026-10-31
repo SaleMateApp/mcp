@@ -1,0 +1,10 @@
+{
+  "name": "salemate",
+  "version": "1.0.0",
+  "description": "Create images, scripts, voiceovers and videos with 10 standalone video models, plus Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas.",
+  "mcpServers": {
+    "salemate": {
+      "httpUrl": "https://mcp.salemate.app/mcp"
+    }
+  }
+}
