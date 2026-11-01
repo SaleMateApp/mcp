@@ -8,7 +8,7 @@
       "name": "salemate",
       "source": "./",
       "description": "Create images, scripts, voiceovers and videos with 10 standalone video models, plus Agent Styles, Shoppable Photos, Vibe Shift and Mini Dramas.",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ],
   "metadata": {

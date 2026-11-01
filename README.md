@@ -280,4 +280,4 @@ No. SaleMate AI makes AI videos and ads and is not affiliated with Salesmate CRM
 - Privacy: [salemate.app/privacy-policy](https://salemate.app/privacy-policy/) · Terms: [salemate.app/terms-of-service](https://salemate.app/terms-of-service/)
 - TikTok: [@salemate.app](https://www.tiktok.com/@salemate.app) · Instagram: [@salemate.app](https://www.instagram.com/salemate.app)
 
-Plugin version **1.0.0**. Released under the [MIT License](LICENSE). The server itself is a hosted SaleMate service and its use is covered by the [SaleMate terms](https://salemate.app/terms-of-service/).
+Plugin version **1.0.1**. Released under the [MIT License](LICENSE). The server itself is a hosted SaleMate service and its use is covered by the [SaleMate terms](https://salemate.app/terms-of-service/).
